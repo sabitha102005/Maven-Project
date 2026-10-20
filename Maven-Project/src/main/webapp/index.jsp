@@ -8,6 +8,6 @@
 <body>
     <h1>Welcome to Maven Web Application!</h1>
 		<h2>Hello Sabitha! Welcome to My Website</h2>
-<p>Jenkins CI/CD Deployment Test Successful!</p>
+<h2>Updated Automatically Through Jenkins CI/CD!</h2>
 </body>
 </html>
